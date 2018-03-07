@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movie_item_height">300dp</dimen>
+    <dimen name="margin_detail">20dp</dimen>
+    <dimen name="detail_item_margin_start">12dp</dimen>
+
+    <dimen name="movie_title_text_size">24sp</dimen>
+    <dimen name="movie_details_text_size">18sp</dimen>
+    <dimen name="plot_textsize">16sp</dimen>
+    <dimen name="margin_trailer_item">10dp</dimen>
+    <dimen name="margin_detail_40">40dp</dimen>
+</resources>
